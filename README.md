@@ -4,7 +4,7 @@
 
 Original source: https://github.com/goldsborough/hashtable
 
-###Input:
+## Input:
 
 ./pegsol <level>
   
